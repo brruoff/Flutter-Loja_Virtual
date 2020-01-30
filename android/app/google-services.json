@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372880809696",
+    "firebase_url": "https://lojaflutter-57374.firebaseio.com",
+    "project_id": "lojaflutter-57374",
+    "storage_bucket": "lojaflutter-57374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372880809696:android:7128f2407eb209af573a85",
+        "android_client_info": {
+          "package_name": "br.com.hojesites.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372880809696-n5nieetlu5fqf4q9ftuvoq0mfsh17h8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_AS07mdwyQxJwgDcElIIrTU_NNpf_h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372880809696-n5nieetlu5fqf4q9ftuvoq0mfsh17h8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
